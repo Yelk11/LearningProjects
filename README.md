@@ -1,6 +1,13 @@
 # LearningProjects
 
 
+DONE:
+Reverse String
+
+TODO:
+Count Vowels
+check if palindrome
+piglatin generator
 
 
 
